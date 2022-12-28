@@ -1,7 +1,6 @@
 #pragma once
 
 #include "../util/util.h"
-
 class dealornodeal {
 public:
 	dealornodeal();
