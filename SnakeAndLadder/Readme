@@ -1,0 +1,7 @@
+Final exam - Snake and Ladder game.
+Test in NUMROUND to find the following five results:
+#1 Best Round with least dice thrown;
+#2 Worst Round with most dice thrown;
+#3 Round with most ladder got;
+#4 Round with most snake got;
+#5 Round with most no move got;
